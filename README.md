@@ -3,7 +3,7 @@
 This repo is a test to create a CLI using Boto3.
 
 This Repo will provide the code using Boto3 for the following.
- Testing the Git Update Command
+
 1- List instances
 2- Create instances
 3- Delete instances
